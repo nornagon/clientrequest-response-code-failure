@@ -19,6 +19,7 @@ app.on('ready', () => {
 
   request.on('response', (response) => {
     console.log('response', response.statusCode);
+    response.on('error', () => {})
   });
 
   request.on('finish', () => {
