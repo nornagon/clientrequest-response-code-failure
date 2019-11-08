@@ -1,0 +1,23 @@
+{
+  "name": "clientrequest-response-code-failure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwonoj/clientrequest-response-code-failure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwonoj/clientrequest-response-code-failure/issues"
+  },
+  "homepage": "https://github.com/kwonoj/clientrequest-response-code-failure#readme",
+  "devDependencies": {
+    "electron": "^7.1.1"
+  }
+}
